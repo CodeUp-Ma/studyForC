@@ -1,2 +1,2 @@
 # studyForC
-Just for test c code.
+Just for test C code.
